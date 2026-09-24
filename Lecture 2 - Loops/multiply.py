@@ -1,0 +1,1 @@
+print('meow with multiply\n' * 3, end='')
